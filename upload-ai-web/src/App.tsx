@@ -88,7 +88,7 @@ export function App() {
                       <SelectValue placeholder="Selecione um prompt..." />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="title" className="cursor-pointer">Título do Teste</SelectItem>
+                      <SelectItem value="title" className="cursor-pointer">Título do Youtube</SelectItem>
                       <SelectItem value="description" className="cursor-pointer">Descrição do Youtube</SelectItem>
                     </SelectContent>
                   </Select>
