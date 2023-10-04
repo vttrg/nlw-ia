@@ -12,7 +12,11 @@ Após o início do processo (a depender da velocidade da máquina do usuário), 
 
 # projeto
 
+<<<<<<< HEAD
 ![Alt text](image-1.png)
+=======
+![image](https://github.com/vttrg/nlw-ia/assets/126638175/e72104ff-ebfc-4ecd-b464-e5e195425e89)
+>>>>>>> ce4da20df112176615a82673b58910746e5f81ab
 
 # frameworks 🛠️ 
 
@@ -32,4 +36,8 @@ Node 🖥️<br>
 TypeScript 📝<br>
 OpenAI: 🤖<br>
 FFmpeg: 🔊<br>
+<<<<<<< HEAD
 Prisma 📊<br>
+=======
+Prisma 📊<br>
+>>>>>>> ce4da20df112176615a82673b58910746e5f81ab
